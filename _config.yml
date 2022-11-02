@@ -49,15 +49,15 @@ features                                  :
     
   - title                                 : Trends
     description                           : Quickly see whats trending, and keep up with whats happening.
-    fontawesome_icon_name                 : arrow-trend-up
+    fontawesome_icon_name                 : poll
     
   - title                                 : App Icons
     description                           : Change your app icon to what you feel is right for you.
-    fontawesome_icon_name                 : paintbrush
+    fontawesome_icon_name                 : paint-brush-alt
     
   - title                                 : Apple Watch
     description                           : Ruby supports Apple Watch, so you can glance at news on the go.
-    fontawesome_icon_name                 : watch-apple
+    fontawesome_icon_name                 : watch-fitness
     
 
   - title                                 : # New Feature Title
