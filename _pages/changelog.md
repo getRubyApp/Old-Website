@@ -38,7 +38,10 @@ ________
 <br>
 
 # **Version 1.0**
-Launch took place on September 19th, 2020! Been quite a journey since then.
+Initial Release
+
+#### What's New
+- Launch took place on September 19th, 2020! Been quite a journey since then.
 
 <br>
 
